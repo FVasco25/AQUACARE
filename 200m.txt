@@ -1,0 +1,1393 @@
+=~=~=~=~=~=~=~=~=~=~=~= PuTTY log 2026.04.02 12:14:19 =~=~=~=~=~=~=~=~=~=~=~=
+ | NTU: 105.94 | DO: 4.77 mg/L
+PDR acumulado: 70.00 %
+--------------------------------------------------
+Paquete crudo: Backup
+RSSI: -101 dBm | SNR: -13.00 dB
+Estado Emisor: Backup
+--------------------------------------------------
+Paquete crudo: 113,9.64,105.94,4.80
+RSSI: -101 dBm | SNR: -11.25 dB
+Seq: 113 | pH: 9.64 | NTU: 105.94 | DO: 4.80 mg/L
+PDR acumulado: 72.73 %
+--------------------------------------------------
+Paquete crudo: Backup
+RSSI: -102 dBm | SNR: -13.75 dB
+Estado Emisor: Backup
+--------------------------------------------------
+Paquete crudo: 114,9.65,105.94,4.80
+RSSI: -100 dBm | SNR: -11.00 dB
+Seq: 114 | pH: 9.65 | NTU: 105.94 | DO: 4.80 mg/L
+PDR acumulado: 75.00 %
+--------------------------------------------------
+Paquete crudo: Backup
+RSSI: -100 dBm | SNR: -13.25 dB
+Estado Emisor: Backup
+--------------------------------------------------
+Paquete crudo: 115,9.64,105.94,4.82
+RSSI: -100 dBm | SNR: -11.75 dB
+Seq: 115 | pH: 9.64 | NTU: 105.94 | DO: 4.82 mg/L
+PDR acumulado: 76.92 %
+--------------------------------------------------
+Paquete crudo: Backup
+RSSI: -101 dBm | SNR: -13.75 dB
+Estado Emisor: Backup
+--------------------------------------------------
+Paquete crudo: 116,9.64,105.94,4.82
+RSSI: -100 dBm | SNR: -14.75 dB
+Seq: 116 | pH: 9.64 | NTU: 105.94 | DO: 4.82 mg/L
+PDR acumulado: 78.57 %
+--------------------------------------------------
+Paquete crudo: Backup
+RSSI: -102 dBm | SNR: -19.25 dB
+Estado Emisor: Backup
+--------------------------------------------------
+Paquete crudo: 117,9.64,105.94,4.82
+RSSI: -100 dBm | SNR: -13.75 dB
+Seq: 117 | pH: 9.64 | NTU: 105.94 | DO: 4.82 mg/L
+PDR acumulado: 80.00 %
+--------------------------------------------------
+Paquete crudo: Backup
+RSSI: -101 dBm | SNR: -14.00 dB
+Estado Emisor: Backup
+--------------------------------------------------
+Paquete crudo: 118,9.64,108.88,4.84
+RSSI: -102 dBm | SNR: -16.00 dB
+Seq: 118 | pH: 9.64 | NTU: 108.88 | DO: 4.84 mg/L
+PDR acumulado: 81.25 %
+--------------------------------------------------
+Paquete crudo: Backup
+RSSI: -102 dBm | SNR: -13.50 dB
+Estado Emisor: Backup
+--------------------------------------------------
+Paquete crudo: 119,9.64,108.88,4.84
+RSSI: -101 dBm | SNR: -14.00 dB
+Seq: 119 | pH: 9.64 | NTU: 108.88 | DO: 4.84 mg/L
+PDR acumulado: 82.35 %
+--------------------------------------------------
+Paquete crudo: Backup
+RSSI: -101 dBm | SNR: -20.00 dB
+Estado Emisor: Backup
+--------------------------------------------------
+Paquete crudo: 120,9.64,108.88,4.86
+RSSI: -100 dBm | SNR: -19.75 dB
+Seq: 120 | pH: 9.64 | NTU: 108.88 | DO: 4.86 mg/L
+PDR acumulado: 83.33 %
+--------------------------------------------------
+Paquete crudo: Backup
+RSSI: -102 dBm | SNR: -14.25 dB
+Estado Emisor: Backup
+--------------------------------------------------
+Paquete crudo: 121,9.64,108.88,4.86
+RSSI: -100 dBm | SNR: -14.25 dB
+Seq: 121 | pH: 9.64 | NTU: 108.88 | DO: 4.86 mg/L
+PDR acumulado: 84.21 %
+--------------------------------------------------
+Paquete crudo: Backup
+RSSI: -102 dBm | SNR: -11.75 dB
+Estado Emisor: Backup
+--------------------------------------------------
+Paquete crudo: 122,9.64,111.80,4.88
+RSSI: -101 dBm | SNR: -16.75 dB
+Seq: 122 | pH: 9.64 | NTU: 111.80 | DO: 4.88 mg/L
+PDR acumulado: 85.00 %
+--------------------------------------------------
+Paquete crudo: Backup
+RSSI: -101 dBm | SNR: -12.75 dB
+Estado Emisor: Backup
+--------------------------------------------------
+Paquete crudo: 123,9.63,111.80,4.88
+RSSI: -99 dBm | SNR: -14.75 dB
+Seq: 123 | pH: 9.63 | NTU: 111.80 | DO: 4.88 mg/L
+PDR acumulado: 85.71 %
+--------------------------------------------------
+Paquete crudo: 124,9.64,111.80,4.88
+RSSI: -100 dBm | SNR: -13.00 dB
+Seq: 124 | pH: 9.64 | NTU: 111.80 | DO: 4.88 mg/L
+PDR acumulado: 86.36 %
+--------------------------------------------------
+Paquete crudo: Backup
+RSSI: -101 dBm | SNR: -14.75 dB
+Estado Emisor: Backup
+--------------------------------------------------
+Paquete crudo: 125,9.64,108.88,4.88
+RSSI: -100 dBm | SNR: -15.50 dB
+Seq: 125 | pH: 9.64 | NTU: 108.88 | DO: 4.88 mg/L
+PDR acumulado: 86.96 %
+--------------------------------------------------
+Paquete crudo: Backup
+RSSI: -101 dBm | SNR: -14.75 dB
+Estado Emisor: Backup
+--------------------------------------------------
+Paquete crudo: Backup
+RSSI: -101 dBm | SNR: -15.75 dB
+Estado Emisor: Backup
+--------------------------------------------------
+Paquete crudo: 127,9.63,108.88,4.88
+RSSI: -99 dBm | SNR: -13.50 dB
+Seq: 127 | pH: 9.63 | NTU: 108.88 | DO: 4.88 mg/L
+PDR acumulado: 84.00 %
+--------------------------------------------------
+Paquete crudo: Backup
+RSSI: -101 dBm | SNR: -19.25 dB
+Estado Emisor: Backup
+--------------------------------------------------
+Paquete crudo: 128,9.63,111.80,4.92
+RSSI: -101 dBm | SNR: -16.25 dB
+Seq: 128 | pH: 9.63 | NTU: 111.80 | DO: 4.92 mg/L
+PDR acumulado: 84.62 %
+--------------------------------------------------
+Paquete crudo: Backup
+RSSI: -101 dBm | SNR: -14.25 dB
+Estado Emisor: Backup
+--------------------------------------------------
+Paquete crudo: 129,9.62,111.80,4.92
+RSSI: -100 dBm | SNR: -13.75 dB
+Seq: 129 | pH: 9.62 | NTU: 111.80 | DO: 4.92 mg/L
+PDR acumulado: 85.19 %
+--------------------------------------------------
+Paquete crudo: Backup
+RSSI: -101 dBm | SNR: -21.50 dB
+Estado Emisor: Backup
+--------------------------------------------------
+Paquete crudo: 130,9.63,108.88,4.92
+RSSI: -100 dBm | SNR: -16.50 dB
+Seq: 130 | pH: 9.63 | NTU: 108.88 | DO: 4.92 mg/L
+PDR acumulado: 85.71 %
+--------------------------------------------------
+Paquete crudo: Backup
+RSSI: -103 dBm | SNR: -15.25 dB
+Estado Emisor: Backup
+--------------------------------------------------
+Paquete crudo: 131,9.63,111.80,4.92
+RSSI: -100 dBm | SNR: -14.50 dB
+Seq: 131 | pH: 9.63 | NTU: 111.80 | DO: 4.92 mg/L
+PDR acumulado: 86.21 %
+--------------------------------------------------
+Paquete crudo: Backup
+RSSI: -100 dBm | SNR: -9.25 dB
+Estado Emisor: Backup
+--------------------------------------------------
+Paquete crudo: 132,9.62,111.80,4.94
+RSSI: -100 dBm | SNR: -10.25 dB
+Seq: 132 | pH: 9.62 | NTU: 111.80 | DO: 4.94 mg/L
+PDR acumulado: 86.67 %
+--------------------------------------------------
+Paquete crudo: Backup
+RSSI: -101 dBm | SNR: -17.00 dB
+Estado Emisor: Backup
+--------------------------------------------------
+Paquete crudo: 133,9.62,108.88,4.94
+RSSI: -99 dBm | SNR: -14.00 dB
+Seq: 133 | pH: 9.62 | NTU: 108.88 | DO: 4.94 mg/L
+PDR acumulado: 87.10 %
+--------------------------------------------------
+Paquete crudo: Backup
+RSSI: -102 dBm | SNR: -15.50 dB
+Estado Emisor: Backup
+--------------------------------------------------
+Paquete crudo: 134,9.62,105.94,4.97
+RSSI: -99 dBm | SNR: -12.75 dB
+Seq: 134 | pH: 9.62 | NTU: 105.94 | DO: 4.97 mg/L
+PDR acumulado: 87.50 %
+--------------------------------------------------
+Paquete crudo: Backup
+RSSI: -102 dBm | SNR: -12.50 dB
+Estado Emisor: Backup
+--------------------------------------------------
+Paquete crudo: 135,9.63,105.94,4.97
+RSSI: -99 dBm | SNR: -13.50 dB
+Seq: 135 | pH: 9.63 | NTU: 105.94 | DO: 4.97 mg/L
+PDR acumulado: 87.88 %
+--------------------------------------------------
+Paquete crudo: Backup
+RSSI: -101 dBm | SNR: -15.75 dB
+Estado Emisor: Backup
+--------------------------------------------------
+Paquete crudo: 136,9.63,105.94,4.97
+RSSI: -100 dBm | SNR: -17.50 dB
+Seq: 136 | pH: 9.63 | NTU: 105.94 | DO: 4.97 mg/L
+PDR acumulado: 88.24 %
+--------------------------------------------------
+Paquete crudo: Backup
+RSSI: -101 dBm | SNR: -17.00 dB
+Estado Emisor: Backup
+--------------------------------------------------
+Paquete crudo: 137,9.63,105.94,4.99
+RSSI: -100 dBm | SNR: -18.00 dB
+Seq: 137 | pH: 9.63 | NTU: 105.94 | DO: 4.99 mg/L
+PDR acumulado: 88.57 %
+--------------------------------------------------
+Paquete crudo: Backup
+RSSI: -101 dBm | SNR: -15.00 dB
+Estado Emisor: Backup
+--------------------------------------------------
+Paquete crudo: 138,9.63,105.94,4.97
+RSSI: -102 dBm | SNR: -13.25 dB
+Seq: 138 | pH: 9.63 | NTU: 105.94 | DO: 4.97 mg/L
+PDR acumulado: 88.89 %
+--------------------------------------------------
+Paquete crudo: Backup
+RSSI: -103 dBm | SNR: -16.75 dB
+Estado Emisor: Backup
+--------------------------------------------------
+Paquete crudo: 139,9.63,105.94,4.97
+RSSI: -101 dBm | SNR: -16.75 dB
+Seq: 139 | pH: 9.63 | NTU: 105.94 | DO: 4.97 mg/L
+PDR acumulado: 89.19 %
+--------------------------------------------------
+Paquete crudo: 140,9.63,105.94,4.99
+RSSI: -100 dBm | SNR: -15.00 dB
+Seq: 140 | pH: 9.63 | NTU: 105.94 | DO: 4.99 mg/L
+PDR acumulado: 89.47 %
+--------------------------------------------------
+Paquete crudo: Backup
+RSSI: -102 dBm | SNR: -17.50 dB
+Estado Emisor: Backup
+--------------------------------------------------
+Paquete crudo: 141,9.62,105.94,4.99
+RSSI: -101 dBm | SNR: -14.50 dB
+Seq: 141 | pH: 9.62 | NTU: 105.94 | DO: 4.99 mg/L
+PDR acumulado: 89.74 %
+--------------------------------------------------
+Paquete crudo: Backup
+RSSI: -101 dBm | SNR: -15.75 dB
+Estado Emisor: Backup
+--------------------------------------------------
+Paquete crudo: 142,9.62,105.94,4.99
+RSSI: -99 dBm | SNR: -16.50 dB
+Seq: 142 | pH: 9.62 | NTU: 105.94 | DO: 4.99 mg/L
+PDR acumulado: 90.00 %
+--------------------------------------------------
+Paquete crudo: Backup
+RSSI: -102 dBm | SNR: -16.50 dB
+Estado Emisor: Backup
+--------------------------------------------------
+Paquete crudo: 143,9.62,105.94,5.01
+RSSI: -100 dBm | SNR: -14.00 dB
+Seq: 143 | pH: 9.62 | NTU: 105.94 | DO: 5.01 mg/L
+PDR acumulado: 90.24 %
+--------------------------------------------------
+Paquete crudo: Backup
+RSSI: -102 dBm | SNR: -18.25 dB
+Estado Emisor: Backup
+--------------------------------------------------
+Paquete crudo: 144,9.62,105.94,5.01
+RSSI: -100 dBm | SNR: -16.50 dB
+Seq: 144 | pH: 9.62 | NTU: 105.94 | DO: 5.01 mg/L
+PDR acumulado: 90.48 %
+--------------------------------------------------
+Paquete crudo: Backup
+RSSI: -103 dBm | SNR: -17.25 dB
+Estado Emisor: Backup
+--------------------------------------------------
+Paquete crudo: 145,9.62,105.94,5.01
+RSSI: -100 dBm | SNR: -11.00 dB
+Seq: 145 | pH: 9.62 | NTU: 105.94 | DO: 5.01 mg/L
+PDR acumulado: 90.70 %
+--------------------------------------------------
+Paquete crudo: Backup
+RSSI: -102 dBm | SNR: -17.75 dB
+Estado Emisor: Backup
+--------------------------------------------------
+Paquete crudo: 146,9.62,105.94,5.01
+RSSI: -100 dBm | SNR: -14.00 dB
+Seq: 146 | pH: 9.62 | NTU: 105.94 | DO: 5.01 mg/L
+PDR acumulado: 90.91 %
+--------------------------------------------------
+Paquete crudo: Backup
+RSSI: -102 dBm | SNR: -16.75 dB
+Estado Emisor: Backup
+--------------------------------------------------
+Paquete crudo: 147,9.62,105.94,5.01
+RSSI: -99 dBm | SNR: -16.00 dB
+Seq: 147 | pH: 9.62 | NTU: 105.94 | DO: 5.01 mg/L
+PDR acumulado: 91.11 %
+--------------------------------------------------
+Paquete crudo: Backup
+RSSI: -102 dBm | SNR: -18.75 dB
+Estado Emisor: Backup
+--------------------------------------------------
+Paquete crudo: 148,9.62,105.94,5.01
+RSSI: -100 dBm | SNR: -18.00 dB
+Seq: 148 | pH: 9.62 | NTU: 105.94 | DO: 5.01 mg/L
+PDR acumulado: 91.30 %
+--------------------------------------------------
+Paquete crudo: Backup
+RSSI: -102 dBm | SNR: -18.50 dB
+Estado Emisor: Backup
+--------------------------------------------------
+Paquete crudo: 149,9.62,105.94,5.03
+RSSI: -99 dBm | SNR: -17.50 dB
+Seq: 149 | pH: 9.62 | NTU: 105.94 | DO: 5.03 mg/L
+PDR acumulado: 91.49 %
+--------------------------------------------------
+Paquete crudo: Backup
+RSSI: -101 dBm | SNR: -15.50 dB
+Estado Emisor: Backup
+--------------------------------------------------
+Paquete crudo: 150,9.62,105.94,5.03
+RSSI: -100 dBm | SNR: -15.00 dB
+Seq: 150 | pH: 9.62 | NTU: 105.94 | DO: 5.03 mg/L
+PDR acumulado: 91.67 %
+--------------------------------------------------
+Paquete crudo: Backup
+RSSI: -101 dBm | SNR: -16.50 dB
+Estado Emisor: Backup
+--------------------------------------------------
+Paquete crudo: 151,9.62,105.94,5.03
+RSSI: -100 dBm | SNR: -19.50 dB
+Seq: 151 | pH: 9.62 | NTU: 105.94 | DO: 5.03 mg/L
+PDR acumulado: 91.84 %
+--------------------------------------------------
+Paquete crudo: Backup
+RSSI: -102 dBm | SNR: -14.25 dB
+Estado Emisor: Backup
+--------------------------------------------------
+Paquete crudo: Backup
+RSSI: -100 dBm | SNR: -15.75 dB
+Estado Emisor: Backup
+--------------------------------------------------
+Paquete crudo: 154,9.62,105.94,5.05
+RSSI: -100 dBm | SNR: -15.00 dB
+Seq: 154 | pH: 9.62 | NTU: 105.94 | DO: 5.05 mg/L
+PDR acumulado: 88.46 %
+--------------------------------------------------
+Paquete crudo: Backup
+RSSI: -103 dBm | SNR: -12.25 dB
+Estado Emisor: Backup
+--------------------------------------------------
+Paquete crudo: 155,9.62,105.94,5.05
+RSSI: -101 dBm | SNR: -13.25 dB
+Seq: 155 | pH: 9.62 | NTU: 105.94 | DO: 5.05 mg/L
+PDR acumulado: 88.68 %
+--------------------------------------------------
+Paquete crudo: Backup
+RSSI: -100 dBm | SNR: -18.50 dB
+Estado Emisor: Backup
+--------------------------------------------------
+Paquete crudo: 156,9.62,108.88,5.05
+RSSI: -100 dBm | SNR: -14.25 dB
+Seq: 156 | pH: 9.62 | NTU: 108.88 | DO: 5.05 mg/L
+PDR acumulado: 88.89 %
+--------------------------------------------------
+Paquete crudo: Backup
+RSSI: -101 dBm | SNR: -16.00 dB
+Estado Emisor: Backup
+--------------------------------------------------
+Paquete crudo: Backup
+RSSI: -102 dBm | SNR: -16.50 dB
+Estado Emisor: Backup
+--------------------------------------------------
+Paquete crudo: 158,15.40,87.82,6.02
+RSSI: -100 dBm | SNR: -15.75 dB
+Seq: 158 | pH: 15.40 | NTU: 87.82 | DO: 6.02 mg/L
+PDR acumulado: 87.50 %
+--------------------------------------------------
+Paquete crudo: Backup
+RSSI: -101 dBm | SNR: -19.50 dB
+Estado Emisor: Backup
+--------------------------------------------------
+Paquete crudo: Backup
+RSSI: -101 dBm | SNR: -21.00 dB
+Estado Emisor: Backup
+--------------------------------------------------
+Paquete crudo: 161,15.34,84.72,8.35
+RSSI: -100 dBm | SNR: -16.00 dB
+Seq: 161 | pH: 15.34 | NTU: 84.72 | DO: 8.35 mg/L
+PDR acumulado: 84.75 %
+--------------------------------------------------
+Paquete crudo: Backup
+RSSI: -101 dBm | SNR: -8.00 dB
+Estado Emisor: Backup
+--------------------------------------------------
+Paquete crudo: 162,16.51,84.72,8.44
+RSSI: -99 dBm | SNR: -10.00 dB
+Seq: 162 | pH: 16.51 | NTU: 84.72 | DO: 8.44 mg/L
+PDR acumulado: 85.00 %
+--------------------------------------------------
+Paquete crudo: 163,16.60,84.72,8.54
+RSSI: -100 dBm | SNR: -13.75 dB
+Seq: 163 | pH: 16.60 | NTU: 84.72 | DO: 8.54 mg/L
+PDR acumulado: 85.25 %
+--------------------------------------------------
+Paquete crudo: 164,12.32,81.60,8.65
+RSSI: -101 dBm | SNR: -14.00 dB
+Seq: 164 | pH: 12.32 | NTU: 81.60 | DO: 8.65 mg/L
+PDR acumulado: 85.48 %
+--------------------------------------------------
+Paquete crudo: Backup
+RSSI: -101 dBm | SNR: -19.25 dB
+Estado Emisor: Backup
+--------------------------------------------------
+Paquete crudo: 165,7.17,81.60,8.65
+RSSI: -99 dBm | SNR: -16.75 dB
+Seq: 165 | pH: 7.17 | NTU: 81.60 | DO: 8.65 mg/L
+PDR acumulado: 85.71 %
+--------------------------------------------------
+Paquete crudo: Backup
+RSSI: -101 dBm | SNR: -18.75 dB
+Estado Emisor: Backup
+--------------------------------------------------
+Paquete crudo: 166,16.59,111.80,8.73
+RSSI: -99 dBm | SNR: -17.00 dB
+Seq: 166 | pH: 16.59 | NTU: 111.80 | DO: 8.73 mg/L
+PDR acumulado: 85.94 %
+--------------------------------------------------
+Paquete crudo: Backup
+RSSI: -100 dBm | SNR: -11.75 dB
+Estado Emisor: Backup
+--------------------------------------------------
+Paquete crudo: 168,16.60,147.70,8.76
+RSSI: -100 dBm | SNR: -18.50 dB
+Seq: 168 | pH: 16.60 | NTU: 147.70 | DO: 8.76 mg/L
+PDR acumulado: 84.85 %
+--------------------------------------------------
+Paquete crudo: Backup
+RSSI: -101 dBm | SNR: -17.00 dB
+Estado Emisor: Backup
+--------------------------------------------------
+Paquete crudo: Backup
+RSSI: -99 dBm | SNR: -21.25 dB
+Estado Emisor: Backup
+--------------------------------------------------
+Paquete crudo: 175,15.46,191.15,8.65
+RSSI: -101 dBm | SNR: -14.25 dB
+Seq: 175 | pH: 15.46 | NTU: 191.15 | DO: 8.65 mg/L
+PDR acumulado: 78.08 %
+--------------------------------------------------
+Paquete crudo: Backup
+RSSI: -102 dBm | SNR: -20.00 dB
+Estado Emisor: Backup
+--------------------------------------------------
+Paquete crudo: Backup
+RSSI: -102 dBm | SNR: -21.25 dB
+Estado Emisor: Backup
+--------------------------------------------------
+Paquete crudo: Backup
+RSSI: -99 dBm | SNR: -16.25 dB
+Estado Emisor: Backup
+--------------------------------------------------
+Paquete crudo: 185,12.16,197.69,6.78
+RSSI: -100 dBm | SNR: -16.50 dB
+Seq: 185 | pH: 12.16 | NTU: 197.69 | DO: 6.78 mg/L
+PDR acumulado: 69.88 %
+--------------------------------------------------
+Paquete crudo: Backup
+RSSI: -100 dBm | SNR: -18.50 dB
+Estado Emisor: Backup
+--------------------------------------------------
+Paquete crudo: 187,9.38,90.90,8.20
+RSSI: -101 dBm | SNR: -17.75 dB
+Seq: 187 | pH: 9.38 | NTU: 90.90 | DO: 8.20 mg/L
+PDR acumulado: 69.41 %
+--------------------------------------------------
+Paquete crudo: Backup
+RSSI: -100 dBm | SNR: -20.00 dB
+Estado Emisor: Backup
+--------------------------------------------------
+Paquete crudo: 193,10.03,96.98,8.16
+RSSI: -101 dBm | SNR: -16.00 dB
+Seq: 193 | pH: 10.03 | NTU: 96.98 | DO: 8.16 mg/L
+PDR acumulado: 65.93 %
+--------------------------------------------------
+Paquete crudo: Backup
+RSSI: -101 dBm | SNR: -20.00 dB
+Estado Emisor: Backup
+--------------------------------------------------
+Paquete crudo: Backup
+RSSI: -101 dBm | SNR: -17.25 dB
+Estado Emisor: Backup
+--------------------------------------------------
+Paquete crudo: Backup
+RSSI: -102 dBm | SNR: -22.00 dB
+Estado Emisor: Backup
+--------------------------------------------------
+Paquete crudo: Backup
+RSSI: -100 dBm | SNR: -14.25 dB
+Estado Emisor: Backup
+--------------------------------------------------
+Paquete crudo: 2,10.15,87.82,7.30
+RSSI: -101 dBm | SNR: -14.25 dB
+Seq: 2 | pH: 10.15 | NTU: 87.82 | DO: 7.30 mg/L
+PDR acumulado: 66.30 %
+--------------------------------------------------
+Paquete crudo: Backup
+RSSI: -101 dBm | SNR: -16.75 dB
+Estado Emisor: Backup
+--------------------------------------------------
+Paquete crudo: 3,10.09,87.82,7.02
+RSSI: -99 dBm | SNR: -14.00 dB
+Seq: 3 | pH: 10.09 | NTU: 87.82 | DO: 7.02 mg/L
+PDR acumulado: 66.67 %
+--------------------------------------------------
+Paquete crudo: Backup
+RSSI: -101 dBm | SNR: -13.50 dB
+Estado Emisor: Backup
+--------------------------------------------------
+Paquete crudo: 4,9.99,87.82,6.76
+RSSI: -99 dBm | SNR: -13.75 dB
+Seq: 4 | pH: 9.99 | NTU: 87.82 | DO: 6.76 mg/L
+PDR acumulado: 67.02 %
+--------------------------------------------------
+Paquete crudo: Backup
+RSSI: -101 dBm | SNR: -16.25 dB
+Estado Emisor: Backup
+--------------------------------------------------
+Paquete crudo: 5,10.00,87.82,6.53
+RSSI: -100 dBm | SNR: -12.75 dB
+Seq: 5 | pH: 10.00 | NTU: 87.82 | DO: 6.53 mg/L
+PDR acumulado: 67.37 %
+--------------------------------------------------
+Paquete crudo: Backup
+RSSI: -103 dBm | SNR: -14.00 dB
+Estado Emisor: Backup
+--------------------------------------------------
+Paquete crudo: 6,9.97,87.82,6.32
+RSSI: -101 dBm | SNR: -13.00 dB
+Seq: 6 | pH: 9.97 | NTU: 87.82 | DO: 6.32 mg/L
+PDR acumulado: 67.71 %
+--------------------------------------------------
+Paquete crudo: Backup
+RSSI: -101 dBm | SNR: -12.75 dB
+Estado Emisor: Backup
+--------------------------------------------------
+Paquete crudo: 7,9.94,87.82,6.13
+RSSI: -98 dBm | SNR: -18.00 dB
+Seq: 7 | pH: 9.94 | NTU: 87.82 | DO: 6.13 mg/L
+PDR acumulado: 68.04 %
+--------------------------------------------------
+Paquete crudo: Backup
+RSSI: -102 dBm | SNR: -20.00 dB
+Estado Emisor: Backup
+--------------------------------------------------
+Paquete crudo: Backup
+RSSI: -102 dBm | SNR: -14.75 dB
+Estado Emisor: Backup
+--------------------------------------------------
+Paquete crudo: 9,9.90,87.82,5.81
+RSSI: -102 dBm | SNR: -12.75 dB
+Seq: 9 | pH: 9.90 | NTU: 87.82 | DO: 5.81 mg/L
+PDR acumulado: 67.68 %
+--------------------------------------------------
+Paquete crudo: Backup
+RSSI: -102 dBm | SNR: -16.25 dB
+Estado Emisor: Backup
+--------------------------------------------------
+Paquete crudo: 10,9.88,87.82,5.67
+RSSI: -100 dBm | SNR: -14.50 dB
+Seq: 10 | pH: 9.88 | NTU: 87.82 | DO: 5.67 mg/L
+PDR acumulado: 68.00 %
+--------------------------------------------------
+Paquete crudo: Backup
+RSSI: -102 dBm | SNR: -14.50 dB
+Estado Emisor: Backup
+--------------------------------------------------
+Paquete crudo: 11,9.87,87.82,5.56
+RSSI: -101 dBm | SNR: -15.25 dB
+Seq: 11 | pH: 9.87 | NTU: 87.82 | DO: 5.56 mg/L
+PDR acumulado: 68.32 %
+--------------------------------------------------
+Paquete crudo: Backup
+RSSI: -101 dBm | SNR: -16.75 dB
+Estado Emisor: Backup
+--------------------------------------------------
+Paquete crudo: 12,9.85,87.82,5.47
+RSSI: -101 dBm | SNR: -17.00 dB
+Seq: 12 | pH: 9.85 | NTU: 87.82 | DO: 5.47 mg/L
+PDR acumulado: 68.63 %
+--------------------------------------------------
+Paquete crudo: Backup
+RSSI: -101 dBm | SNR: -19.00 dB
+Estado Emisor: Backup
+--------------------------------------------------
+Paquete crudo: 13,9.84,87.82,5.37
+RSSI: -100 dBm | SNR: -17.25 dB
+Seq: 13 | pH: 9.84 | NTU: 87.82 | DO: 5.37 mg/L
+PDR acumulado: 68.93 %
+--------------------------------------------------
+Paquete crudo: Backup
+RSSI: -101 dBm | SNR: -18.50 dB
+Estado Emisor: Backup
+--------------------------------------------------
+Paquete crudo: 14,9.84,87.82,5.28
+RSSI: -100 dBm | SNR: -20.00 dB
+Seq: 14 | pH: 9.84 | NTU: 87.82 | DO: 5.28 mg/L
+PDR acumulado: 69.23 %
+--------------------------------------------------
+Paquete crudo: Backup
+RSSI: -102 dBm | SNR: -18.00 dB
+Estado Emisor: Backup
+--------------------------------------------------
+Paquete crudo: 15,9.85,87.82,5.20
+RSSI: -99 dBm | SNR: -18.75 dB
+Seq: 15 | pH: 9.85 | NTU: 87.82 | DO: 5.20 mg/L
+PDR acumulado: 69.52 %
+--------------------------------------------------
+Paquete crudo: Backup
+RSSI: -102 dBm | SNR: -18.00 dB
+Estado Emisor: Backup
+--------------------------------------------------
+Paquete crudo: 16,9.84,87.82,5.14
+RSSI: -100 dBm | SNR: -16.00 dB
+Seq: 16 | pH: 9.84 | NTU: 87.82 | DO: 5.14 mg/L
+PDR acumulado: 69.81 %
+--------------------------------------------------
+Paquete crudo: Backup
+RSSI: -103 dBm | SNR: -15.75 dB
+Estado Emisor: Backup
+--------------------------------------------------
+Paquete crudo: 17,9.81,87.82,5.07
+RSSI: -101 dBm | SNR: -16.00 dB
+Seq: 17 | pH: 9.81 | NTU: 87.82 | DO: 5.07 mg/L
+PDR acumulado: 70.09 %
+--------------------------------------------------
+Paquete crudo: Backup
+RSSI: -101 dBm | SNR: -14.00 dB
+Estado Emisor: Backup
+--------------------------------------------------
+Paquete crudo: 18,9.79,87.82,5.01
+RSSI: -101 dBm | SNR: -15.25 dB
+Seq: 18 | pH: 9.79 | NTU: 87.82 | DO: 5.01 mg/L
+PDR acumulado: 70.37 %
+--------------------------------------------------
+Paquete crudo: Backup
+RSSI: -102 dBm | SNR: -16.25 dB
+Estado Emisor: Backup
+--------------------------------------------------
+Paquete crudo: 19,9.78,87.82,4.97
+RSSI: -101 dBm | SNR: -15.75 dB
+Seq: 19 | pH: 9.78 | NTU: 87.82 | DO: 4.97 mg/L
+PDR acumulado: 70.64 %
+--------------------------------------------------
+Paquete crudo: Backup
+RSSI: -103 dBm | SNR: -16.50 dB
+Estado Emisor: Backup
+--------------------------------------------------
+Paquete crudo: 20,9.77,87.82,4.92
+RSSI: -100 dBm | SNR: -15.00 dB
+Seq: 20 | pH: 9.77 | NTU: 87.82 | DO: 4.92 mg/L
+PDR acumulado: 70.91 %
+--------------------------------------------------
+Paquete crudo: Backup
+RSSI: -101 dBm | SNR: -17.25 dB
+Estado Emisor: Backup
+--------------------------------------------------
+Paquete crudo: 21,9.77,87.82,4.88
+RSSI: -102 dBm | SNR: -18.25 dB
+Seq: 21 | pH: 9.77 | NTU: 87.82 | DO: 4.88 mg/L
+PDR acumulado: 71.17 %
+--------------------------------------------------
+Paquete crudo: Backup
+RSSI: -102 dBm | SNR: -17.00 dB
+Estado Emisor: Backup
+--------------------------------------------------
+Paquete crudo: 22,9.76,87.82,4.86
+RSSI: -101 dBm | SNR: -14.75 dB
+Seq: 22 | pH: 9.76 | NTU: 87.82 | DO: 4.86 mg/L
+PDR acumulado: 71.43 %
+--------------------------------------------------
+Paquete crudo: Backup
+RSSI: -102 dBm | SNR: -17.50 dB
+Estado Emisor: Backup
+--------------------------------------------------
+Paquete crudo: 23,9.75,87.82,4.82
+RSSI: -102 dBm | SNR: -18.75 dB
+Seq: 23 | pH: 9.75 | NTU: 87.82 | DO: 4.82 mg/L
+PDR acumulado: 71.68 %
+--------------------------------------------------
+Paquete crudo: Backup
+RSSI: -101 dBm | SNR: -16.75 dB
+Estado Emisor: Backup
+--------------------------------------------------
+Paquete crudo: 24,9.75,87.82,4.80
+RSSI: -101 dBm | SNR: -17.25 dB
+Seq: 24 | pH: 9.75 | NTU: 87.82 | DO: 4.80 mg/L
+PDR acumulado: 71.93 %
+--------------------------------------------------
+Paquete crudo: Backup
+RSSI: -103 dBm | SNR: -15.00 dB
+Estado Emisor: Backup
+--------------------------------------------------
+Paquete crudo: 25,9.74,87.82,4.77
+RSSI: -101 dBm | SNR: -16.00 dB
+Seq: 25 | pH: 9.74 | NTU: 87.82 | DO: 4.77 mg/L
+PDR acumulado: 72.17 %
+--------------------------------------------------
+Paquete crudo: Backup
+RSSI: -101 dBm | SNR: -18.50 dB
+Estado Emisor: Backup
+--------------------------------------------------
+Paquete crudo: 26,9.73,87.82,4.75
+RSSI: -101 dBm | SNR: -15.25 dB
+Seq: 26 | pH: 9.73 | NTU: 87.82 | DO: 4.75 mg/L
+PDR acumulado: 72.41 %
+--------------------------------------------------
+Paquete crudo: Backup
+RSSI: -101 dBm | SNR: -17.00 dB
+Estado Emisor: Backup
+--------------------------------------------------
+Paquete crudo: 27,9.72,87.82,4.73
+RSSI: -100 dBm | SNR: -15.50 dB
+Seq: 27 | pH: 9.72 | NTU: 87.82 | DO: 4.73 mg/L
+PDR acumulado: 72.65 %
+--------------------------------------------------
+Paquete crudo: Backup
+RSSI: -101 dBm | SNR: -17.75 dB
+Estado Emisor: Backup
+--------------------------------------------------
+Paquete crudo: 28,9.72,87.82,4.73
+RSSI: -100 dBm | SNR: -14.25 dB
+Seq: 28 | pH: 9.72 | NTU: 87.82 | DO: 4.73 mg/L
+PDR acumulado: 72.88 %
+--------------------------------------------------
+Paquete crudo: Backup
+RSSI: -103 dBm | SNR: -19.50 dB
+Estado Emisor: Backup
+--------------------------------------------------
+Paquete crudo: 29,9.72,87.82,4.71
+RSSI: -102 dBm | SNR: -18.00 dB
+Seq: 29 | pH: 9.72 | NTU: 87.82 | DO: 4.71 mg/L
+PDR acumulado: 73.11 %
+--------------------------------------------------
+Paquete crudo: Backup
+RSSI: -101 dBm | SNR: -16.00 dB
+Estado Emisor: Backup
+--------------------------------------------------
+Paquete crudo: 30,9.71,87.82,4.69
+RSSI: -100 dBm | SNR: -12.25 dB
+Seq: 30 | pH: 9.71 | NTU: 87.82 | DO: 4.69 mg/L
+PDR acumulado: 73.33 %
+--------------------------------------------------
+Paquete crudo: Backup
+RSSI: -101 dBm | SNR: -14.25 dB
+Estado Emisor: Backup
+--------------------------------------------------
+Paquete crudo: 31,9.71,87.82,4.69
+RSSI: -101 dBm | SNR: -17.50 dB
+Seq: 31 | pH: 9.71 | NTU: 87.82 | DO: 4.69 mg/L
+PDR acumulado: 73.55 %
+--------------------------------------------------
+Paquete crudo: Backup
+RSSI: -103 dBm | SNR: -17.75 dB
+Estado Emisor: Backup
+--------------------------------------------------
+Paquete crudo: 32,9.71,87.82,4.69
+RSSI: -100 dBm | SNR: -18.00 dB
+Seq: 32 | pH: 9.71 | NTU: 87.82 | DO: 4.69 mg/L
+PDR acumulado: 73.77 %
+--------------------------------------------------
+Paquete crudo: Backup
+RSSI: -103 dBm | SNR: -15.50 dB
+Estado Emisor: Backup
+--------------------------------------------------
+Paquete crudo: 33,9.70,87.82,4.67
+RSSI: -100 dBm | SNR: -14.50 dB
+Seq: 33 | pH: 9.70 | NTU: 87.82 | DO: 4.67 mg/L
+PDR acumulado: 73.98 %
+--------------------------------------------------
+Paquete crudo: Backup
+RSSI: -102 dBm | SNR: -14.75 dB
+Estado Emisor: Backup
+--------------------------------------------------
+Paquete crudo: 34,9.71,87.82,4.67
+RSSI: -101 dBm | SNR: -15.25 dB
+Seq: 34 | pH: 9.71 | NTU: 87.82 | DO: 4.67 mg/L
+PDR acumulado: 74.19 %
+--------------------------------------------------
+Paquete crudo: Backup
+RSSI: -101 dBm | SNR: -16.75 dB
+Estado Emisor: Backup
+--------------------------------------------------
+Paquete crudo: 35,9.71,87.82,4.69
+RSSI: -100 dBm | SNR: -17.25 dB
+Seq: 35 | pH: 9.71 | NTU: 87.82 | DO: 4.69 mg/L
+PDR acumulado: 74.40 %
+--------------------------------------------------
+Paquete crudo: Backup
+RSSI: -102 dBm | SNR: -17.75 dB
+Estado Emisor: Backup
+--------------------------------------------------
+Paquete crudo: 36,9.69,87.82,4.67
+RSSI: -100 dBm | SNR: -18.00 dB
+Seq: 36 | pH: 9.69 | NTU: 87.82 | DO: 4.67 mg/L
+PDR acumulado: 74.60 %
+--------------------------------------------------
+Paquete crudo: Backup
+RSSI: -103 dBm | SNR: -16.50 dB
+Estado Emisor: Backup
+--------------------------------------------------
+Paquete crudo: 37,9.68,87.82,4.67
+RSSI: -101 dBm | SNR: -17.25 dB
+Seq: 37 | pH: 9.68 | NTU: 87.82 | DO: 4.67 mg/L
+PDR acumulado: 74.80 %
+--------------------------------------------------
+Paquete crudo: Backup
+RSSI: -103 dBm | SNR: -20.75 dB
+Estado Emisor: Backup
+--------------------------------------------------
+Paquete crudo: Backup
+RSSI: -102 dBm | SNR: -17.25 dB
+Estado Emisor: Backup
+--------------------------------------------------
+Paquete crudo: 39,9.70,87.82,4.69
+RSSI: -101 dBm | SNR: -20.25 dB
+Seq: 39 | pH: 9.70 | NTU: 87.82 | DO: 4.69 mg/L
+PDR acumulado: 74.42 %
+--------------------------------------------------
+Paquete crudo: Backup
+RSSI: -103 dBm | SNR: -18.25 dB
+Estado Emisor: Backup
+--------------------------------------------------
+Paquete crudo: 40,9.69,87.82,4.71
+RSSI: -102 dBm | SNR: -15.50 dB
+Seq: 40 | pH: 9.69 | NTU: 87.82 | DO: 4.71 mg/L
+PDR acumulado: 74.62 %
+--------------------------------------------------
+Paquete crudo: Backup
+RSSI: -103 dBm | SNR: -16.50 dB
+Estado Emisor: Backup
+--------------------------------------------------
+Paquete crudo: 41,9.68,87.82,4.71
+RSSI: -101 dBm | SNR: -19.25 dB
+Seq: 41 | pH: 9.68 | NTU: 87.82 | DO: 4.71 mg/L
+PDR acumulado: 74.81 %
+--------------------------------------------------
+Paquete crudo: Backup
+RSSI: -103 dBm | SNR: -14.75 dB
+Estado Emisor: Backup
+--------------------------------------------------
+Paquete crudo: 42,9.68,87.82,4.69
+RSSI: -103 dBm | SNR: -15.25 dB
+Seq: 42 | pH: 9.68 | NTU: 87.82 | DO: 4.69 mg/L
+PDR acumulado: 75.00 %
+--------------------------------------------------
+Paquete crudo: Backup
+RSSI: -101 dBm | SNR: -15.00 dB
+Estado Emisor: Backup
+--------------------------------------------------
+Paquete crudo: 43,9.70,87.82,4.71
+RSSI: -102 dBm | SNR: -19.25 dB
+Seq: 43 | pH: 9.70 | NTU: 87.82 | DO: 4.71 mg/L
+PDR acumulado: 75.19 %
+--------------------------------------------------
+Paquete crudo: Backup
+RSSI: -101 dBm | SNR: -11.75 dB
+Estado Emisor: Backup
+--------------------------------------------------
+Paquete crudo: 44,9.71,87.82,4.73
+RSSI: -102 dBm | SNR: -14.00 dB
+Seq: 44 | pH: 9.71 | NTU: 87.82 | DO: 4.73 mg/L
+PDR acumulado: 75.37 %
+--------------------------------------------------
+Paquete crudo: Backup
+RSSI: -103 dBm | SNR: -19.75 dB
+Estado Emisor: Backup
+--------------------------------------------------
+Paquete crudo: 45,9.69,87.82,4.73
+RSSI: -101 dBm | SNR: -14.00 dB
+Seq: 45 | pH: 9.69 | NTU: 87.82 | DO: 4.73 mg/L
+PDR acumulado: 75.56 %
+--------------------------------------------------
+Paquete crudo: Backup
+RSSI: -103 dBm | SNR: -17.00 dB
+Estado Emisor: Backup
+--------------------------------------------------
+Paquete crudo: 46,9.67,87.82,4.73
+RSSI: -102 dBm | SNR: -14.00 dB
+Seq: 46 | pH: 9.67 | NTU: 87.82 | DO: 4.73 mg/L
+PDR acumulado: 75.74 %
+--------------------------------------------------
+Paquete crudo: Backup
+RSSI: -102 dBm | SNR: -16.75 dB
+Estado Emisor: Backup
+--------------------------------------------------
+Paquete crudo: 47,9.67,87.82,4.73
+RSSI: -101 dBm | SNR: -17.25 dB
+Seq: 47 | pH: 9.67 | NTU: 87.82 | DO: 4.73 mg/L
+PDR acumulado: 75.91 %
+--------------------------------------------------
+Paquete crudo: Backup
+RSSI: -104 dBm | SNR: -19.00 dB
+Estado Emisor: Backup
+--------------------------------------------------
+Paquete crudo: 48,9.68,87.82,4.75
+RSSI: -100 dBm | SNR: -15.25 dB
+Seq: 48 | pH: 9.68 | NTU: 87.82 | DO: 4.75 mg/L
+PDR acumulado: 76.09 %
+--------------------------------------------------
+Paquete crudo: Backup
+RSSI: -103 dBm | SNR: -16.00 dB
+Estado Emisor: Backup
+--------------------------------------------------
+Paquete crudo: 49,9.67,87.82,4.75
+RSSI: -102 dBm | SNR: -15.50 dB
+Seq: 49 | pH: 9.67 | NTU: 87.82 | DO: 4.75 mg/L
+PDR acumulado: 76.26 %
+--------------------------------------------------
+Paquete crudo: Backup
+RSSI: -103 dBm | SNR: -18.25 dB
+Estado Emisor: Backup
+--------------------------------------------------
+Paquete crudo: 50,9.67,87.82,4.75
+RSSI: -103 dBm | SNR: -14.50 dB
+Seq: 50 | pH: 9.67 | NTU: 87.82 | DO: 4.75 mg/L
+PDR acumulado: 76.43 %
+--------------------------------------------------
+Paquete crudo: Backup
+RSSI: -103 dBm | SNR: -18.50 dB
+Estado Emisor: Backup
+--------------------------------------------------
+Paquete crudo: 52,9.67,87.82,4.77
+RSSI: -100 dBm | SNR: -12.75 dB
+Seq: 52 | pH: 9.67 | NTU: 87.82 | DO: 4.77 mg/L
+PDR acumulado: 76.06 %
+--------------------------------------------------
+Paquete crudo: Backup
+RSSI: -103 dBm | SNR: -18.25 dB
+Estado Emisor: Backup
+--------------------------------------------------
+Paquete crudo: 53,9.67,87.82,4.77
+RSSI: -101 dBm | SNR: -11.25 dB
+Seq: 53 | pH: 9.67 | NTU: 87.82 | DO: 4.77 mg/L
+PDR acumulado: 76.22 %
+--------------------------------------------------
+Paquete crudo: Backup
+RSSI: -102 dBm | SNR: -16.00 dB
+Estado Emisor: Backup
+--------------------------------------------------
+Paquete crudo: 54,9.67,87.82,4.80
+RSSI: -100 dBm | SNR: -16.00 dB
+Seq: 54 | pH: 9.67 | NTU: 87.82 | DO: 4.80 mg/L
+PDR acumulado: 76.39 %
+--------------------------------------------------
+Paquete crudo: Backup
+RSSI: -101 dBm | SNR: -15.50 dB
+Estado Emisor: Backup
+--------------------------------------------------
+Paquete crudo: 55,9.68,87.82,4.80
+RSSI: -101 dBm | SNR: -19.50 dB
+Seq: 55 | pH: 9.68 | NTU: 87.82 | DO: 4.80 mg/L
+PDR acumulado: 76.55 %
+--------------------------------------------------
+Paquete crudo: Backup
+RSSI: -102 dBm | SNR: -15.25 dB
+Estado Emisor: Backup
+--------------------------------------------------
+Paquete crudo: 56,9.67,87.82,4.80
+RSSI: -100 dBm | SNR: -12.25 dB
+Seq: 56 | pH: 9.67 | NTU: 87.82 | DO: 4.80 mg/L
+PDR acumulado: 76.71 %
+--------------------------------------------------
+Paquete crudo: Backup
+RSSI: -102 dBm | SNR: -13.75 dB
+Estado Emisor: Backup
+--------------------------------------------------
+Paquete crudo: 57,9.68,87.82,4.77
+RSSI: -101 dBm | SNR: -14.00 dB
+Seq: 57 | pH: 9.68 | NTU: 87.82 | DO: 4.77 mg/L
+PDR acumulado: 76.87 %
+--------------------------------------------------
+Paquete crudo: Backup
+RSSI: -101 dBm | SNR: -13.50 dB
+Estado Emisor: Backup
+--------------------------------------------------
+Paquete crudo: 58,9.69,87.82,4.80
+RSSI: -100 dBm | SNR: -11.50 dB
+Seq: 58 | pH: 9.69 | NTU: 87.82 | DO: 4.80 mg/L
+PDR acumulado: 77.03 %
+--------------------------------------------------
+Paquete crudo: Backup
+RSSI: -102 dBm | SNR: -13.25 dB
+Estado Emisor: Backup
+--------------------------------------------------
+Paquete crudo: 59,9.70,87.82,4.82
+RSSI: -101 dBm | SNR: -16.75 dB
+Seq: 59 | pH: 9.70 | NTU: 87.82 | DO: 4.82 mg/L
+PDR acumulado: 77.18 %
+--------------------------------------------------
+Paquete crudo: Backup
+RSSI: -101 dBm | SNR: -15.00 dB
+Estado Emisor: Backup
+--------------------------------------------------
+Paquete crudo: 60,9.70,87.82,4.80
+RSSI: -101 dBm | SNR: -16.75 dB
+Seq: 60 | pH: 9.70 | NTU: 87.82 | DO: 4.80 mg/L
+PDR acumulado: 77.33 %
+--------------------------------------------------
+Paquete crudo: Backup
+RSSI: -101 dBm | SNR: -16.00 dB
+Estado Emisor: Backup
+--------------------------------------------------
+Paquete crudo: 61,9.69,87.82,4.82
+RSSI: -100 dBm | SNR: -13.25 dB
+Seq: 61 | pH: 9.69 | NTU: 87.82 | DO: 4.82 mg/L
+PDR acumulado: 77.48 %
+--------------------------------------------------
+Paquete crudo: Backup
+RSSI: -103 dBm | SNR: -16.25 dB
+Estado Emisor: Backup
+--------------------------------------------------
+Paquete crudo: 62,9.68,87.82,4.82
+RSSI: -100 dBm | SNR: -16.50 dB
+Seq: 62 | pH: 9.68 | NTU: 87.82 | DO: 4.82 mg/L
+PDR acumulado: 77.63 %
+--------------------------------------------------
+Paquete crudo: Backup
+RSSI: -101 dBm | SNR: -17.25 dB
+Estado Emisor: Backup
+--------------------------------------------------
+Paquete crudo: 63,9.67,87.82,4.82
+RSSI: -100 dBm | SNR: -14.25 dB
+Seq: 63 | pH: 9.67 | NTU: 87.82 | DO: 4.82 mg/L
+PDR acumulado: 77.78 %
+--------------------------------------------------
+Paquete crudo: Backup
+RSSI: -103 dBm | SNR: -14.50 dB
+Estado Emisor: Backup
+--------------------------------------------------
+Paquete crudo: 64,9.78,90.90,4.84
+RSSI: -100 dBm | SNR: -13.00 dB
+Seq: 64 | pH: 9.78 | NTU: 90.90 | DO: 4.84 mg/L
+PDR acumulado: 77.92 %
+--------------------------------------------------
+Paquete crudo: Backup
+RSSI: -102 dBm | SNR: -16.00 dB
+Estado Emisor: Backup
+--------------------------------------------------
+Paquete crudo: 65,9.80,87.82,4.88
+RSSI: -101 dBm | SNR: -14.00 dB
+Seq: 65 | pH: 9.80 | NTU: 87.82 | DO: 4.88 mg/L
+PDR acumulado: 78.06 %
+--------------------------------------------------
+Paquete crudo: Backup
+RSSI: -101 dBm | SNR: -13.50 dB
+Estado Emisor: Backup
+--------------------------------------------------
+Paquete crudo: 66,9.71,87.82,4.99
+RSSI: -100 dBm | SNR: -12.75 dB
+Seq: 66 | pH: 9.71 | NTU: 87.82 | DO: 4.99 mg/L
+PDR acumulado: 78.21 %
+--------------------------------------------------
+Paquete crudo: Backup
+RSSI: -102 dBm | SNR: -12.50 dB
+Estado Emisor: Backup
+--------------------------------------------------
+Paquete crudo: 67,9.67,87.82,5.03
+RSSI: -102 dBm | SNR: -11.50 dB
+Seq: 67 | pH: 9.67 | NTU: 87.82 | DO: 5.03 mg/L
+PDR acumulado: 78.34 %
+--------------------------------------------------
+Paquete crudo: Backup
+RSSI: -102 dBm | SNR: -13.25 dB
+Estado Emisor: Backup
+--------------------------------------------------
+Paquete crudo: 68,9.67,87.82,5.09
+RSSI: -100 dBm | SNR: -13.00 dB
+Seq: 68 | pH: 9.67 | NTU: 87.82 | DO: 5.09 mg/L
+PDR acumulado: 78.48 %
+--------------------------------------------------
+Paquete crudo: Backup
+RSSI: -102 dBm | SNR: -19.50 dB
+Estado Emisor: Backup
+--------------------------------------------------
+Paquete crudo: 69,9.67,87.82,5.11
+RSSI: -102 dBm | SNR: -15.25 dB
+Seq: 69 | pH: 9.67 | NTU: 87.82 | DO: 5.11 mg/L
+PDR acumulado: 78.62 %
+--------------------------------------------------
+Paquete crudo: Backup
+RSSI: -103 dBm | SNR: -17.00 dB
+Estado Emisor: Backup
+--------------------------------------------------
+Paquete crudo: 70,9.69,87.82,5.09
+RSSI: -102 dBm | SNR: -16.25 dB
+Seq: 70 | pH: 9.69 | NTU: 87.82 | DO: 5.09 mg/L
+PDR acumulado: 78.75 %
+--------------------------------------------------
+Paquete crudo: Backup
+RSSI: -102 dBm | SNR: -15.25 dB
+Estado Emisor: Backup
+--------------------------------------------------
+Paquete crudo: 71,9.66,87.82,5.09
+RSSI: -101 dBm | SNR: -12.00 dB
+Seq: 71 | pH: 9.66 | NTU: 87.82 | DO: 5.09 mg/L
+PDR acumulado: 78.88 %
+--------------------------------------------------
+Paquete crudo: Backup
+RSSI: -103 dBm | SNR: -17.25 dB
+Estado Emisor: Backup
+--------------------------------------------------
+Paquete crudo: 72,9.67,87.82,5.07
+RSSI: -103 dBm | SNR: -16.00 dB
+Seq: 72 | pH: 9.67 | NTU: 87.82 | DO: 5.07 mg/L
+PDR acumulado: 79.01 %
+--------------------------------------------------
+Paquete crudo: Backup
+RSSI: -103 dBm | SNR: -13.50 dB
+Estado Emisor: Backup
+--------------------------------------------------
+Paquete crudo: 73,9.67,87.82,5.05
+RSSI: -101 dBm | SNR: -11.25 dB
+Seq: 73 | pH: 9.67 | NTU: 87.82 | DO: 5.05 mg/L
+PDR acumulado: 79.14 %
+--------------------------------------------------
+Paquete crudo: Backup
+RSSI: -103 dBm | SNR: -14.00 dB
+Estado Emisor: Backup
+--------------------------------------------------
+Paquete crudo: 74,9.68,87.82,5.01
+RSSI: -101 dBm | SNR: -13.00 dB
+Seq: 74 | pH: 9.68 | NTU: 87.82 | DO: 5.01 mg/L
+PDR acumulado: 79.27 %
+--------------------------------------------------
+Paquete crudo: Backup
+RSSI: -103 dBm | SNR: -14.75 dB
+Estado Emisor: Backup
+--------------------------------------------------
+Paquete crudo: 75,9.67,87.82,5.01
+RSSI: -101 dBm | SNR: -15.00 dB
+Seq: 75 | pH: 9.67 | NTU: 87.82 | DO: 5.01 mg/L
+PDR acumulado: 79.39 %
+--------------------------------------------------
+Paquete crudo: Backup
+RSSI: -102 dBm | SNR: -14.00 dB
+Estado Emisor: Backup
+--------------------------------------------------
+Paquete crudo: 76,9.69,87.82,4.97
+RSSI: -102 dBm | SNR: -13.75 dB
+Seq: 76 | pH: 9.69 | NTU: 87.82 | DO: 4.97 mg/L
+PDR acumulado: 79.52 %
+--------------------------------------------------
+Paquete crudo: Backup
+RSSI: -103 dBm | SNR: -18.75 dB
+Estado Emisor: Backup
+--------------------------------------------------
+Paquete crudo: 77,9.70,87.82,4.94
+RSSI: -102 dBm | SNR: -20.25 dB
+Seq: 77 | pH: 9.70 | NTU: 87.82 | DO: 4.94 mg/L
+PDR acumulado: 79.64 %
+--------------------------------------------------
+Paquete crudo: Backup
+RSSI: -103 dBm | SNR: -14.25 dB
+Estado Emisor: Backup
+--------------------------------------------------
+Paquete crudo: 78,9.69,87.82,4.97
+RSSI: -103 dBm | SNR: -15.00 dB
+Seq: 78 | pH: 9.69 | NTU: 87.82 | DO: 4.97 mg/L
+PDR acumulado: 79.76 %
+--------------------------------------------------
+Paquete crudo: Backup
+RSSI: -104 dBm | SNR: -17.00 dB
+Estado Emisor: Backup
+--------------------------------------------------
+Paquete crudo: 79,9.72,87.82,4.94
+RSSI: -103 dBm | SNR: -14.75 dB
+Seq: 79 | pH: 9.72 | NTU: 87.82 | DO: 4.94 mg/L
+PDR acumulado: 79.88 %
+--------------------------------------------------
+Paquete crudo: Backup
+RSSI: -102 dBm | SNR: -16.50 dB
+Estado Emisor: Backup
+--------------------------------------------------
+Paquete crudo: 80,9.67,87.82,4.94
+RSSI: -104 dBm | SNR: -18.75 dB
+Seq: 80 | pH: 9.67 | NTU: 87.82 | DO: 4.94 mg/L
+PDR acumulado: 80.00 %
+--------------------------------------------------
+Paquete crudo: Backup
+RSSI: -103 dBm | SNR: -17.00 dB
+Estado Emisor: Backup
+--------------------------------------------------
+Paquete crudo: 81,9.64,87.82,4.97
+RSSI: -102 dBm | SNR: -15.50 dB
+Seq: 81 | pH: 9.64 | NTU: 87.82 | DO: 4.97 mg/L
+PDR acumulado: 80.12 %
+--------------------------------------------------
+Paquete crudo: Backup
+RSSI: -103 dBm | SNR: -18.75 dB
+Estado Emisor: Backup
+--------------------------------------------------
+Paquete crudo: Backup
+RSSI: -103 dBm | SNR: -15.50 dB
+Estado Emisor: Backup
+--------------------------------------------------
+Paquete crudo: 83,9.67,87.82,4.97
+RSSI: -103 dBm | SNR: -14.50 dB
+Seq: 83 | pH: 9.67 | NTU: 87.82 | DO: 4.97 mg/L
+PDR acumulado: 79.77 %
+--------------------------------------------------
+Paquete crudo: Backup
+RSSI: -103 dBm | SNR: -14.25 dB
+Estado Emisor: Backup
+--------------------------------------------------
+Paquete crudo: 84,9.65,87.82,4.97
+RSSI: -105 dBm | SNR: -14.75 dB
+Seq: 84 | pH: 9.65 | NTU: 87.82 | DO: 4.97 mg/L
+PDR acumulado: 79.89 %
+--------------------------------------------------
+Paquete crudo: Backup
+RSSI: -103 dBm | SNR: -17.00 dB
+Estado Emisor: Backup
+--------------------------------------------------
+Paquete crudo: 85,9.66,87.82,4.97
+RSSI: -101 dBm | SNR: -13.75 dB
+Seq: 85 | pH: 9.66 | NTU: 87.82 | DO: 4.97 mg/L
+PDR acumulado: 80.00 %
+--------------------------------------------------
+Paquete crudo: Backup
+RSSI: -102 dBm | SNR: -15.25 dB
+Estado Emisor: Backup
+--------------------------------------------------
+Paquete crudo: 86,9.67,87.82,4.97
+RSSI: -102 dBm | SNR: -13.50 dB
+Seq: 86 | pH: 9.67 | NTU: 87.82 | DO: 4.97 mg/L
+PDR acumulado: 80.11 %
+--------------------------------------------------
+Paquete crudo: Backup
+RSSI: -101 dBm | SNR: -15.25 dB
+Estado Emisor: Backup
+--------------------------------------------------
+Paquete crudo: 87,9.66,87.82,4.97
+RSSI: -101 dBm | SNR: -13.25 dB
+Seq: 87 | pH: 9.66 | NTU: 87.82 | DO: 4.97 mg/L
+PDR acumulado: 80.23 %
+--------------------------------------------------
+Paquete crudo: Backup
+RSSI: -103 dBm | SNR: -13.75 dB
+Estado Emisor: Backup
+--------------------------------------------------
+Paquete crudo: 88,9.67,87.82,4.99
+RSSI: -101 dBm | SNR: -12.25 dB
+Seq: 88 | pH: 9.67 | NTU: 87.82 | DO: 4.99 mg/L
+PDR acumulado: 80.34 %
+--------------------------------------------------
+Paquete crudo: Backup
+RSSI: -101 dBm | SNR: -15.75 dB
+Estado Emisor: Backup
+--------------------------------------------------
+Paquete crudo: 89,9.65,87.82,4.99
+RSSI: -102 dBm | SNR: -16.00 dB
+Seq: 89 | pH: 9.65 | NTU: 87.82 | DO: 4.99 mg/L
+PDR acumulado: 80.45 %
+--------------------------------------------------
+Paquete crudo: Backup
+RSSI: -101 dBm | SNR: -18.00 dB
+Estado Emisor: Backup
+--------------------------------------------------
+Paquete crudo: 90,9.67,87.82,4.97
+RSSI: -101 dBm | SNR: -16.00 dB
+Seq: 90 | pH: 9.67 | NTU: 87.82 | DO: 4.97 mg/L
+PDR acumulado: 80.56 %
+--------------------------------------------------
+Paquete crudo: Backup
+RSSI: -102 dBm | SNR: -17.00 dB
+Estado Emisor: Backup
+--------------------------------------------------
+Paquete crudo: 91,9.65,87.82,4.99
+RSSI: -100 dBm | SNR: -14.50 dB
+Seq: 91 | pH: 9.65 | NTU: 87.82 | DO: 4.99 mg/L
+PDR acumulado: 80.66 %
+--------------------------------------------------
+Paquete crudo: Backup
+RSSI: -102 dBm | SNR: -20.50 dB
+Estado Emisor: Backup
+--------------------------------------------------
+Paquete crudo: 92,9.65,87.82,4.99
+RSSI: -101 dBm | SNR: -19.00 dB
+Seq: 92 | pH: 9.65 | NTU: 87.82 | DO: 4.99 mg/L
+PDR acumulado: 80.77 %
+--------------------------------------------------
+Paquete crudo: Backup
+RSSI: -102 dBm | SNR: -13.25 dB
+Estado Emisor: Backup
+--------------------------------------------------
+Paquete crudo: 93,9.67,87.82,4.99
+RSSI: -100 dBm | SNR: -11.50 dB
+Seq: 93 | pH: 9.67 | NTU: 87.82 | DO: 4.99 mg/L
+PDR acumulado: 80.87 %
+--------------------------------------------------
+Paquete crudo: Backup
+RSSI: -101 dBm | SNR: -15.75 dB
+Estado Emisor: Backup
+--------------------------------------------------
+Paquete crudo: 94,9.67,87.82,5.01
+RSSI: -100 dBm | SNR: -17.00 dB
+Seq: 94 | pH: 9.67 | NTU: 87.82 | DO: 5.01 mg/L
+PDR acumulado: 80.98 %
+--------------------------------------------------
+Paquete crudo: Backup
+RSSI: -102 dBm | SNR: -13.00 dB
+Estado Emisor: Backup
+--------------------------------------------------
+Paquete crudo: 95,9.65,87.82,5.01
+RSSI: -100 dBm | SNR: -12.25 dB
+Seq: 95 | pH: 9.65 | NTU: 87.82 | DO: 5.01 mg/L
+PDR acumulado: 81.08 %
+--------------------------------------------------
+Paquete crudo: Backup
+RSSI: -101 dBm | SNR: -14.25 dB
+Estado Emisor: Backup
+--------------------------------------------------
+Paquete crudo: 96,9.64,87.82,5.01
+RSSI: -101 dBm | SNR: -14.00 dB
+Seq: 96 | pH: 9.64 | NTU: 87.82 | DO: 5.01 mg/L
+PDR acumulado: 81.18 %
+--------------------------------------------------
+Paquete crudo: Backup
+RSSI: -102 dBm | SNR: -19.50 dB
+Estado Emisor: Backup
+--------------------------------------------------
+Paquete crudo: Backup
+RSSI: -100 dBm | SNR: -18.75 dB
+Estado Emisor: Backup
+--------------------------------------------------
+Paquete crudo: 98,9.65,87.82,5.03
+RSSI: -99 dBm | SNR: -17.25 dB
+Seq: 98 | pH: 9.65 | NTU: 87.82 | DO: 5.03 mg/L
+PDR acumulado: 80.85 %
+--------------------------------------------------
+Paquete crudo: Backup
+RSSI: -102 dBm | SNR: -17.25 dB
+Estado Emisor: Backup
+--------------------------------------------------
+Paquete crudo: 99,9.68,87.82,5.03
+RSSI: -100 dBm | SNR: -15.75 dB
+Seq: 99 | pH: 9.68 | NTU: 87.82 | DO: 5.03 mg/L
+PDR acumulado: 80.95 %
+--------------------------------------------------
+Paquete crudo: Backup
+RSSI: -102 dBm | SNR: -21.50 dB
+Estado Emisor: Backup
+--------------------------------------------------
+Paquete crudo: 100,9.67,87.82,5.03
+RSSI: -99 dBm | SNR: -17.00 dB
+Seq: 100 | pH: 9.67 | NTU: 87.82 | DO: 5.03 mg/L
+PDR acumulado: 81.05 %
+--------------------------------------------------
+Paquete crudo: Backup
+RSSI: -101 dBm | SNR: -16.50 dB
+Estado Emisor: Backup
+--------------------------------------------------
+Paquete crudo: 101,9.66,87.82,5.05
+RSSI: -99 dBm | SNR: -17.00 dB
+Seq: 101 | pH: 9.66 | NTU: 87.82 | DO: 5.05 mg/L
+PDR acumulado: 81.15 %
+--------------------------------------------------
+Paquete crudo: Backup
+RSSI: -101 dBm | SNR: -14.75 dB
+Estado Emisor: Backup
+--------------------------------------------------
+Paquete crudo: 102,9.65,90.90,5.05
+RSSI: -100 dBm | SNR: -17.00 dB
+Seq: 102 | pH: 9.65 | NTU: 90.90 | DO: 5.05 mg/L
+PDR acumulado: 81.25 %
+--------------------------------------------------
+Paquete crudo: Backup
+RSSI: -101 dBm | SNR: -14.75 dB
+Estado Emisor: Backup
+--------------------------------------------------
+Paquete crudo: 103,9.67,87.82,5.07
+RSSI: -99 dBm | SNR: -15.75 dB
+Seq: 103 | pH: 9.67 | NTU: 87.82 | DO: 5.07 mg/L
+PDR acumulado: 81.35 %
